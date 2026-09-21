@@ -64,6 +64,18 @@ I'm particularly interested in:
   </a>
 </p>
 
+<p align="left">
+  <a href="mailto:miladfathi021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-miladfathi021%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/miladfathi021">
+    <img src="https://img.shields.io/badge/GitHub-miladfathi021-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Milad%20Fathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
