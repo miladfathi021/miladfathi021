@@ -22,7 +22,7 @@ I enjoy building clean, maintainable software, improving existing systems, and l
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,js,vue,nuxt,tailwind,flutter,dart,docker,aws,linux,git,githubactions,nginx&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,nuxt,tailwind,docker,aws,git&perline=8" alt="Tech Stack" />
 </p>
 
 ### Backend
@@ -45,23 +45,21 @@ I'm particularly interested in:
 - Domain-Driven Design
 - Performance & database optimization
 - Automated testing
-- Distributed systems
 - Developer tools
 - AI-assisted software engineering
-- Agentic development workflows
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:miladfathi021@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/miladfathi021">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/miladfathi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
