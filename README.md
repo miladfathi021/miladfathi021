@@ -14,9 +14,7 @@ I enjoy building clean, maintainable software, improving existing systems, and l
 - 🌐 Experience building **REST APIs** and full-stack web applications
 - 🧩 Interested in **Clean Architecture, SOLID, DDD, testing, and scalable systems**
 - 🤖 Actively using **Cursor and AI tools** in my development workflow
-- 🛠️ Building **Ripple**, my own developer tool for analyzing code-change impact
-- 📱 Experience with **Flutter and Dart**
-- ☁️ Familiar with **Docker, AWS, CI/CD, and production systems**
+- ☁️ Familiar with **Docker, AWS, and production systems**
 - 🌱 Always learning and improving my software engineering skills
 
 ---
