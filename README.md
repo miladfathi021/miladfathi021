@@ -22,7 +22,7 @@ I enjoy building clean, maintainable software, improving existing systems, and l
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,nuxt,tailwind,docker,aws,git&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,nuxt,tailwind,docker,git&perline=10" alt="Tech Stack" />
 </p>
 
 ### Backend
