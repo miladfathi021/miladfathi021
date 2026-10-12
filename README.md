@@ -36,10 +36,6 @@ I also collaborate remotely with European teams and companies, contributing to w
 
 `JavaScript` · `Vue.js` · `Nuxt` · `Tailwind CSS`
 
-### AI & Machine Learning
-
-`Machine Learning` · `AI Agents` · `AI Engineering`
-
 ---
 
 ## 🏗️ Engineering Interests
