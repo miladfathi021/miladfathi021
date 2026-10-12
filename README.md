@@ -2,20 +2,23 @@
 
 ### Backend / Full-Stack Developer
 
-I'm a software developer with several years of experience building web applications and APIs, with a strong focus on **PHP, Laravel, MySQL, and modern JavaScript**.
+I'm a software developer with **more than 5 years of experience** building web applications and APIs, with a strong focus on **PHP, Laravel, MySQL, and modern JavaScript**.
 
-I enjoy building clean, maintainable software, improving existing systems, and learning new technologies. Recently, I've also been focusing more on **AI-assisted software development** and using tools such as **Cursor and AI coding agents** in my development workflow.
+I enjoy building clean, maintainable software, improving existing systems, and exploring new technologies. Recently, I've been expanding my knowledge of **Machine Learning, Artificial Intelligence, and AI Agents** while continuing to strengthen my software engineering skills.
+
+I also collaborate remotely with European teams and companies, contributing to web development projects in an international working environment.
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Backend-focused developer with strong experience in **PHP & Laravel**
-- 🌐 Experience building **REST APIs** and full-stack web applications
+- 🌐 Experienced in building **REST APIs** and full-stack web applications
+- 🌍 Working remotely with **European teams and companies**
 - 🧩 Interested in **Clean Architecture, SOLID, DDD, testing, and scalable systems**
-- 🤖 Actively using **Cursor and AI tools** in my development workflow
+- 🤖 Currently learning about **Machine Learning, AI Agents, and AI engineering**
 - ☁️ Familiar with **Docker, AWS, and production systems**
-- 🌱 Always learning and improving my software engineering skills
+- 🌱 Continuously learning and improving my software engineering skills
 
 ---
 
@@ -33,20 +36,25 @@ I enjoy building clean, maintainable software, improving existing systems, and l
 
 `JavaScript` · `Vue.js` · `Nuxt` · `Tailwind CSS`
 
+### AI & Machine Learning
+
+`Machine Learning` · `AI Agents` · `AI Engineering`
+
 ---
 
 ## 🏗️ Engineering Interests
 
 I'm particularly interested in:
 
-- Backend architecture
-- API design
-- Clean Code & SOLID
-- Domain-Driven Design
-- Performance & database optimization
-- Automated testing
-- Developer tools
-- AI-assisted software engineering
+- Backend architecture and system design
+- API design and development
+- Clean Code & SOLID principles
+- Domain-Driven Design (DDD)
+- Performance and database optimization
+- Automated testing and software quality
+- Developer tools and engineering productivity
+- Machine Learning and Artificial Intelligence
+- AI Agents and intelligent systems
 
 ---
 
@@ -67,5 +75,5 @@ I'm particularly interested in:
 ---
 
 <p align="center">
-  <i>Building software, learning continuously, and improving every day.</i>
+  <i>Building software, exploring AI, and learning continuously.</i>
 </p>
